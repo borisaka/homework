@@ -1,0 +1,5 @@
+user, 0, Uncle, Bens, 21
+user, 1, John, Doe, 32
+user, 2, Edik, Shuvalov, 27
+session, 0, 0, Internet Explorer 9,98,2018-10-26
+session, 1, 0, Chrome 9,98,2018-10-26
